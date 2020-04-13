@@ -1,3 +1,5 @@
+# Original cover
+
 Prosecutor's Office of USSR
 Sverdlovsk Region
 
@@ -7,6 +9,7 @@ discontinued criminal
 ??? on the death of hikers in the area of Mount Otorten
 
 initiated ?? ?? 1959
+
 finished 28 ?? 1959
 
 Vol № 1 from 2 ~~387~~ 392 sheets
