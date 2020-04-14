@@ -14,6 +14,8 @@
 
 Том № 1 в 2-х томах на ~~387~~ 392 листах
 
+## [< Назад](cover-contemporary.md) [Вперед >](../vol_2/cover-original.md) [English](text/en/vol_1/cover-original.md)
+
 ![Оригинальная обложка 1](/scan/vol_1/cover-original-01.jpg)
 ![Оригинальная обложка 2](/scan/vol_1/cover-original-02.png)
 ![Оригинальная обложка 3](/scan/vol_1/cover-original-03.jpg)

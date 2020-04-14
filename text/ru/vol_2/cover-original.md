@@ -12,4 +12,6 @@
 
 На ___ листах
 
+## [< Назад](../vol_1/cover-original.md) [English](text/en/vol_2/cover-original.md)
+
 ![Оригинальная обложка](/scan/vol_2/cover-01.jpg)
