@@ -14,7 +14,7 @@ finished 28 ?? 1959
 
 Vol № 1 from 2 ~~387~~ 392 sheets
 
-[< Previous](cover-contemporary.md) | [Next >](../vol_2/cover-original.md) | [:ru:](/text/ru/vol_1/cover-original.md)
+[< Previous](cover-contemporary.md) | [Next >](../vol_2/cover-original.md) | [RU](/text/ru/vol_1/cover-original.md)
 ------------------------------------|--------------------------------------|----------------------------------------
 
 ![original cover 1](/scan/vol_1/cover-original-01.jpg)
