@@ -10,5 +10,8 @@ The discontinued criminal case on the death of hikers in the area of Mount Otort
 
 403 sheets
 
+[Next >](cover-original.md) | [:ru:](text/ru/vol_1/cover-contemporary.md)
+------------------------------|--------------------------------------------
+
 ![contemporary cover 1](/scan/vol_1/cover-contemporary-01.jpg)
 ![contemporary cover 2](/scan/vol_1/cover-contemporary-02.jpg)

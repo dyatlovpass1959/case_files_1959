@@ -2,8 +2,8 @@
 
 ## Том 1
 
-- [Оригинальная обложка](vol_1/cover-original.md)
 - [Современная обложка](vol_1/cover-contemporary.md)
+- [Оригинальная обложка](vol_1/cover-original.md)
 
 ## Том 2
 
