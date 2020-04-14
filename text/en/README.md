@@ -2,8 +2,8 @@
 
 ## Volume 1
 
-- [Original cover](vol_1/cover-original.md)
 - [Contemporary cover](vol_1/cover-contemporary.md)
+- [Original cover](vol_1/cover-original.md)
 
 ## Volume 2
 

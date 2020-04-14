@@ -10,7 +10,8 @@
 
 на 403 листах
 
-## [Вперед >](cover-original.md) [English](text/en/vol_1/cover-contemporary.md)
+[Вперед >](cover-original.md) | [:uk:](text/en/vol_1/cover-contemporary.md)
+------------------------------|--------------------------------------------
 
 ![Современная обложка 1](/scan/vol_1/cover-contemporary-01.jpg)
 ![Современная обложка 2](/scan/vol_1/cover-contemporary-02.jpg)
